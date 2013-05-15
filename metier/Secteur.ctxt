@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=id\ nom
+comment0.target=Secteur(int,\ java.lang.String)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Secteur\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

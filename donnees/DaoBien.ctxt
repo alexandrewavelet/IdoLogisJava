@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DaoBien()
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ daoBien\r\n
+comment1.params=leBien
+comment1.target=void\ enregistrerBien(metier.Bien)
+comment10.params=
+comment10.target=java.util.ArrayList\ getLesCommunes()
+comment11.params=
+comment11.target=java.util.ArrayList\ getLesSecteurs()
+comment2.params=
+comment2.target=java.util.ArrayList\ getLesBiens()
+comment3.params=id
+comment3.target=metier.Bien\ getLeBien(int)
+comment4.params=
+comment4.target=int\ getNombreBiens()
+comment5.params=leBien
+comment5.target=void\ modifierBien(metier.Bien)
+comment6.params=leBien
+comment6.target=void\ supprimerLeBien(metier.Bien)
+comment7.params=laCommune
+comment7.target=int\ enregistrerCommune(metier.Commune)
+comment8.params=leBien
+comment8.target=metier.Commune\ getLaCommuneDuBien(metier.Bien)
+comment9.params=id
+comment9.target=metier.Commune\ getLaCommune(int)
+numComments=12

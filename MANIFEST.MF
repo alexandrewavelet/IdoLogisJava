@@ -1,0 +1,2 @@
+Main-Class: Application
+Class-Path: archives\mysql-connector-java-5.0.8-bin.jar

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=uneDao
+comment0.target=FenetreAjoutBien(donnees.DaoBien)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ FenetreAjoutBien\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

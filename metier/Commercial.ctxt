@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=id\ nom\ prenom\ tel\ mail\ secteur
+comment0.target=Commercial(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ Secteur)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Commercial\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment3.params=
+comment3.target=java.lang.String\ getPrenom()
+comment4.params=
+comment4.target=java.lang.String\ getTel()
+comment5.params=
+comment5.target=java.lang.String\ getMail()
+comment6.params=
+comment6.target=Secteur\ getSecteur()
+numComments=7

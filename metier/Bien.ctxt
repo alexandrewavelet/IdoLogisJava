@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=id\ intitule\ nbChambres\ garage\ jardin\ prix\ energie\ commune
+comment0.target=Bien(int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ Commune)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Bien\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=java.lang.String\ getIntitule()
+comment3.params=
+comment3.target=int\ getNbChambres()
+comment4.params=
+comment4.target=java.lang.String\ getGarage()
+comment5.params=
+comment5.target=java.lang.String\ getJardin()
+comment6.params=
+comment6.target=java.lang.Integer\ getPrix()
+comment7.params=
+comment7.target=java.lang.String\ getEnergie()
+comment8.params=
+comment8.target=Commune\ getCommune()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

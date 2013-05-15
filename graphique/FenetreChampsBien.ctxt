@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=uneDao\ uneCommune
+comment0.target=FenetreChampsBien(donnees.DaoBien,\ metier.Commune)
+comment1.params=uneDao\ unBien
+comment1.target=FenetreChampsBien(donnees.DaoBien,\ metier.Bien)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

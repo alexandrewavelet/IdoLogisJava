@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=uneDao
+comment0.target=ModeleTableBien(DaoBien)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ ModeleTableBien\r\n
+comment1.params=
+comment1.target=int\ getColumnCount()
+comment2.params=
+comment2.target=int\ getRowCount()
+comment3.params=col
+comment3.target=java.lang.String\ getColumnName(int)
+comment4.params=row\ col
+comment4.target=java.lang.Object\ getValueAt(int,\ int)
+comment5.params=c
+comment5.target=java.lang.Class\ getColumnClass(int)
+comment6.params=row\ col
+comment6.target=boolean\ isCellEditable(int,\ int)
+comment7.params=value\ row\ col
+comment7.target=void\ setValueAt(java.lang.Object,\ int,\ int)
+comment8.params=l
+comment8.target=void\ addTableModelListener(javax.swing.event.TableModelListener)
+comment9.params=l
+comment9.target=void\ removeTableModelListener(javax.swing.event.TableModelListener)
+numComments=10
